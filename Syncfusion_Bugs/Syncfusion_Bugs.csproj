@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2083" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="Syncfusion.Xamarin.SfPdfViewer" Version="19.2.0.56" />
+    <PackageReference Include="Microsoft.Toolkit.Mvvm" Version="7.0.2" />
+    <PackageReference Include="Syncfusion.Xamarin.Core" Version="19.2.0.56" />
+    <PackageReference Include="Syncfusion.Xamarin.SfMaskedEdit" Version="19.2.0.56" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Bugs\" />
+    <None Remove="Syncfusion.Xamarin.SfPdfViewer" />
+    <None Remove="Assets\" />
+    <None Remove="Assets\Sample.pdf" />
+    <None Remove="MvvmLight" />
+    <None Remove="Microsoft.Toolkit.Mvvm" />
+    <None Remove="Syncfusion.Xamarin.Core" />
+    <None Remove="Syncfusion.Xamarin.SfMaskedEdit" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Bugs\" />
+    <Folder Include="Assets\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\Sample.pdf" />
+  </ItemGroup>
+</Project>

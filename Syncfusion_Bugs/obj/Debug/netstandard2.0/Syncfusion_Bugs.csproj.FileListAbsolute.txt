@@ -1,0 +1,17 @@
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/bin/Debug/netstandard2.0/Syncfusion_Bugs.deps.json
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/bin/Debug/netstandard2.0/Syncfusion_Bugs.dll
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/bin/Debug/netstandard2.0/ref/Syncfusion_Bugs.dll
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/bin/Debug/netstandard2.0/Syncfusion_Bugs.pdb
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/Syncfusion_Bugs.csproj.AssemblyReference.cache
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/Syncfusion_Bugs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/Syncfusion_Bugs.AssemblyInfoInputs.cache
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/Syncfusion_Bugs.AssemblyInfo.cs
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/Syncfusion_Bugs.csproj.CoreCompileInputs.cache
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/Syncfusion_Bugs.dll
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/ref/Syncfusion_Bugs.dll
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/Syncfusion_Bugs.pdb
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/Bugs/Bug1_PDFPageNumber_Page.xaml.g.cs
+/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/Debug/netstandard2.0/Bugs/Bug2_SFControlReturnType_Page.xaml.g.cs

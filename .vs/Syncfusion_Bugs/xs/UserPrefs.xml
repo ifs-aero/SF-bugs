@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{877F09EF-80F3-4E1F-A7A0-40D1EBA816BE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Syncfusion__Bugs.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.81E4E6A6-3EA4-43E8-BEF7-43446D35EED8" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Syncfusion_Bugs/Bugs/Bug2_SFControlReturnType_Page.xaml.cs">
+    <Files>
+      <File FileName="Syncfusion_Bugs/Bugs/Bug2_SFControlReturnType_Page.xaml" Line="19" Column="43" />
+      <File FileName="Syncfusion_Bugs/Bugs/Bug2_SFControlReturnType_Page.xaml.cs" Line="50" Column="1" />
+      <File FileName="Syncfusion_Bugs/Bugs/Bug1_PDFPageNumber_Page.xaml.cs" Line="44" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Syncfusion_Bugs" expanded="True">
+            <Node name="Syncfusion_Bugs" expanded="True">
+              <Node name="Bugs" expanded="True">
+                <Node name="Bug1_PDFPageNumber_Page.xaml" expanded="True" />
+                <Node name="Bug2_SFControlReturnType_Page.xaml" expanded="True">
+                  <Node name="Bug2_SFControlReturnType_Page.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Syncfusion_Bugs.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

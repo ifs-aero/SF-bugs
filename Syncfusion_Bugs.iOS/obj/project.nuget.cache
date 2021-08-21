@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "locClMVeeLiMHsMTkIO5Wl4pci5SJUSu8CqUuHriwa19ngJc9Dy45e4tBlCoFQZ862Uolg0X//bKEMoOOm8qjA==",
+  "success": true,
+  "projectFilePath": "/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs.iOS/Syncfusion_Bugs.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/mkhodeir/.nuget/packages/microsoft.toolkit.mvvm/7.0.2/microsoft.toolkit.mvvm.7.0.2.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.licensing/19.2.0.56/syncfusion.licensing.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.compression/19.2.0.56/syncfusion.xamarin.compression.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.core/19.2.0.56/syncfusion.xamarin.core.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.pdf/19.2.0.56/syncfusion.xamarin.pdf.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.sfbusyindicator/19.2.0.56/syncfusion.xamarin.sfbusyindicator.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.sfmaskededit/19.2.0.56/syncfusion.xamarin.sfmaskededit.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.sfpdfviewer/19.2.0.56/syncfusion.xamarin.sfpdfviewer.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.sfprogressbar/19.2.0.56/syncfusion.xamarin.sfprogressbar.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.sfrangeslider/19.2.0.56/syncfusion.xamarin.sfrangeslider.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/xamarin.forms/5.0.0.2083/xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}

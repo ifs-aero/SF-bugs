@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xo8F62Kx6/Tr6unNqDHc5rg/5/M1Gb3m47u3jLuZF2BmIhTm6u9FH/gii5jAcnnkCmWUp7OKvTpX01e1MXFVZw==",
+  "success": true,
+  "projectFilePath": "/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/Syncfusion_Bugs.csproj",
+  "expectedPackageFiles": [
+    "/Users/mkhodeir/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/microsoft.toolkit.mvvm/7.0.2/microsoft.toolkit.mvvm.7.0.2.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.licensing/19.2.0.56/syncfusion.licensing.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.compression/19.2.0.56/syncfusion.xamarin.compression.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.core/19.2.0.56/syncfusion.xamarin.core.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.pdf/19.2.0.56/syncfusion.xamarin.pdf.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.sfbusyindicator/19.2.0.56/syncfusion.xamarin.sfbusyindicator.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.sfmaskededit/19.2.0.56/syncfusion.xamarin.sfmaskededit.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.sfpdfviewer/19.2.0.56/syncfusion.xamarin.sfpdfviewer.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.sfprogressbar/19.2.0.56/syncfusion.xamarin.sfprogressbar.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/syncfusion.xamarin.sfrangeslider/19.2.0.56/syncfusion.xamarin.sfrangeslider.19.2.0.56.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.3/system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/mkhodeir/.nuget/packages/xamarin.forms/5.0.0.2083/xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}

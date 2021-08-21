@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/Syncfusion_Bugs.csproj": {}
+  },
+  "projects": {
+    "/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/Syncfusion_Bugs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/Syncfusion_Bugs.csproj",
+        "projectName": "Syncfusion_Bugs",
+        "projectPath": "/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/Syncfusion_Bugs.csproj",
+        "packagesPath": "/Users/mkhodeir/.nuget/packages/",
+        "outputPath": "/Users/mkhodeir/Sources/Repos/IFS/Syncfusion_Bugs/Syncfusion_Bugs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mkhodeir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Toolkit.Mvvm": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Syncfusion.Xamarin.Core": {
+              "target": "Package",
+              "version": "[19.2.0.56, )"
+            },
+            "Syncfusion.Xamarin.SfMaskedEdit": {
+              "target": "Package",
+              "version": "[19.2.0.56, )"
+            },
+            "Syncfusion.Xamarin.SfPdfViewer": {
+              "target": "Package",
+              "version": "[19.2.0.56, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2083, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-preview.6.21355.2/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

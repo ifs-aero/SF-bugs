@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:sfpdfviewer="clr-namespace:Syncfusion.SfPdfViewer.XForms;assembly=Syncfusion.SfPdfViewer.XForms" xmlns:syncfusion_bugs="clr-namespace:Syncfusion_Bugs" xmlns:inputLayout="clr-namespace:Syncfusion.XForms.TextInputLayout;assembly=Syncfusion.Core.XForms" xmlns:maskededit="clr-namespace:Syncfusion.XForms.MaskedEdit;assembly=Syncfusion.SfMaskedEdit.XForms"
+    x:Class="Syncfusion_Bugs.Bugs.Bug2_SFControlReturnType_Page">
+    <ContentPage.Resources>
+        <DataTemplate x:Key="MaskEditTemplate">
+            <inputLayout:SfTextInputLayout  Background="Red" >
+                <maskededit:SfMaskedEdit HeightRequest="200"
+                        Keyboard="Numeric"
+                        ReturnType="Next"
+                        TabIndex="{Binding Position}"
+                        Value="Hey Value">
+                </maskededit:SfMaskedEdit>
+            </inputLayout:SfTextInputLayout>
+        </DataTemplate>
+        <DataTemplate x:Key="TextFieldTemplate">
+            <inputLayout:SfTextInputLayout Background="Blue">
+                <Entry HeightRequest="200"
+                        ReturnType="Next"
+                        TabIndex="{Binding Position}"
+                        Text="Hello" >
+                </Entry>
+            </inputLayout:SfTextInputLayout>
+        </DataTemplate>
+
+        <syncfusion_bugs:ItemsDataTemplateSelector x:Key="ItemsSelector"
+                                             MaskEditTemplate="{StaticResource MaskEditTemplate}"
+                                             TextFieldTemplate="{StaticResource TextFieldTemplate}" />
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Back" Clicked="back_Clicked"/>
+            <CollectionView ItemsSource="{Binding Items}" ItemTemplate="{StaticResource ItemsSelector}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
